@@ -1,0 +1,168 @@
+.menu {
+    background-color: rgb(99, 119, 228);
+    height:70px;
+    border-radius: 20px;
+    width:100%;
+    margin-bottom: 10px;
+}
+
+a{
+
+    float:right;
+    display: block;
+    color:black;
+    padding: 20px;
+    font-size: 13px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    border-radius: 25px;
+
+}
+#contact:hover,#menu-item:hover{
+    background-color: rgb(17, 15, 15);
+    color:rgb(64, 226, 172);
+    height: 17px;
+}
+#contact{
+    padding-right: 40px;
+}
+
+.search-menu{
+
+    float:left;
+    display: block;
+    padding-top: 22px;
+    
+}
+.search{
+    width:320px;
+    text-align:end;
+    font-style: italic;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    padding:5px;
+    padding-right:10px;
+    border-radius: 50px;
+    border-style: groove;
+    border:1111px;
+    border-color: black;
+}
+.search-image{
+    float:left;
+    display:block;
+    padding-top: 0px;
+    padding-left: 100px;
+    padding-right: 10px;
+}
+
+#image{
+    padding:10px;
+}
+
+#menu-icons{
+    padding-right: 4px;
+}
+.border{
+    background-color: black;
+    min-height: 5px;
+    margin-bottom:10px;
+    border-radius:20px 40px;
+}
+
+.row{
+    overflow:hidden;
+    margin-bottom:2px;
+    background-color: none;
+}
+.column{
+    float:left;
+    width:100%;
+    height:max-content;
+    margin-right : 5px;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+
+
+.me{
+    width:350px;
+    border-radius: 20px;
+}
+.profile{
+    padding-left: 30px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.content{
+
+    padding-left:30px;
+    padding-top:5px;
+    padding-right:20px;
+    padding-bottom: -5px;
+}
+#journal{
+    font-size: 20px;
+    float:none;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+    font-weight:lighter;
+}
+p,li{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-family: 'Comfortaa', cursive;
+}
+
+#skills{
+    padding-bottom: 15px;
+}
+
+#radio{
+    width:24px;
+}
+.radio-icons{
+    display:inline-block;
+    height:45px;
+}
+.lists{
+   width: 160px;
+   height:45px;
+   padding-top:0px;
+   float:left;
+   text-align:center;
+}
+.ricons{
+    width:160px;
+    float:right;
+    height:45px;
+}
+#radio{
+    padding-top: 21px;
+}
+#italy{
+    font-style: italic;
+}
+
+.footer{
+    border-radius:20px;
+    background-color:black;
+    justify-content: center;
+    display:flex;
+    margin-top: 900px;
+}
+#footer-icons{
+    float:none;
+    font-size: 20px;
+    color:rgb(253, 233, 221);
+    display:inline-block;
+}
+
+#mycontact{
+    padding-top: 30px;
+    color:rgb(253, 233, 221);
+    font-family: 'Comfortaa', cursive;
+}

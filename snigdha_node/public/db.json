@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "6446e26e495ccf74d00892e0",
+    "student_id": 103,
+    "student_name": "Bob Johnson",
+    "student_age": 22,
+    "student_gender": "Male",
+    "major": "Mechanical Engineering",
+    "no_of_subjects_per_semester": 5
+  },
+  {
+    "_id": "6446e26e495ccf74d00892e2",
+    "student_id": 105,
+    "student_name": "Tom Brown",
+    "student_age": 20,
+    "student_gender": "Male",
+    "major": "Psychology",
+    "no_of_subjects_per_semester": 4
+  },
+  {
+    "_id": "6446e26e495ccf74d00892df",
+    "student_id": 102,
+    "student_name": "Jane Smith",
+    "student_age": 21,
+    "student_gender": "Female",
+    "major": "Electrical Engineering",
+    "no_of_subjects_per_semester": 4
+  },
+  {
+    "_id": "6446e26e495ccf74d00892de",
+    "student_id": 101,
+    "student_name": "John Doe",
+    "student_age": 20,
+    "student_gender": "Male",
+    "major": "Computer Science",
+    "no_of_subjects_per_semester": 5
+  },
+  {
+    "_id": "6446e26e495ccf74d00892e1",
+    "student_id": 104,
+    "student_name": "Alice Lee",
+    "student_age": 19,
+    "student_gender": "Female",
+    "major": "Business Administration",
+    "no_of_subjects_per_semester": 3
+  }
+]
